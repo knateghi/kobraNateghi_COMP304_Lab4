@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='kobraNateghi_COMP304_Lab4'
